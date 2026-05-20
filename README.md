@@ -119,11 +119,6 @@ Features are separated into:
 - Categorical variables
 - Target variable
 
-The target variable is:
-
-```text
-Churn
-```
 
 ### 4.3 Data Distribution Analysis
 
